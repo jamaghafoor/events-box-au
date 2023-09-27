@@ -5,7 +5,7 @@
 	<key>CFBundleDevelopmentRegion</key>
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
-	<string>eventsboxau</string>
+	<string>EventsBox</string>
 	<key>CFBundleExecutable</key>
 	<string>$(EXECUTABLE_NAME)</string>
 	<key>CFBundleIdentifier</key>
@@ -13,7 +13,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleName</key>
-	<string>$(PRODUCT_NAME)</string>
+	<string>EventsBox</string>
 	<key>CFBundlePackageType</key>
 	<string>APPL</string>
 	<key>CFBundleShortVersionString</key>
@@ -62,12 +62,6 @@
 
 	<key>NSContactsUsageDescription</key>
 	<string>${PRODUCT_NAME} Contact fetch</string>
-
-	<key>NSHealthShareUsageDescription</key>
-	<string>${PRODUCT_NAME} Health Description</string>
-
-	<key>NSHealthUpdateUsageDescription</key>
-	<string>${PRODUCT_NAME} Health Updates</string>
 
 	<key>NSHomeKitUsageDescription</key>
 	<string>${PRODUCT_NAME} HomeKit Usage</string>
